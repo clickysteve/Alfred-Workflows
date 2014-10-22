@@ -31,6 +31,9 @@ To use their web app you need to provide your private key to be stored on their 
 
 * For *decryption*, Alfred will take the PGP block provided, decrypt it using the Keybase shell, and copy the resulting decrypted message to the clipboard.
 
+* To *track* a user, type 'track' followed by the username. Terminal will not close automatically, to allow you to verify the proofs manually.
+
+
 ###Known Issues/Improvements###
 
 * This requires you to be logged in to the Keybase Shell, and so the first time the process isn't as smooth. In future I'd like to work out a better way of doing this (if possible).
