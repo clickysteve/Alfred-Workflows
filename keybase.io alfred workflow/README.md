@@ -38,6 +38,6 @@ To use their web app you need to provide your private key to be stored on their 
 
 * This requires you to be logged in to the Keybase Shell, and so the first time the process isn't as smooth. In future I'd like to work out a better way of doing this (if possible).
 * At some point I might look to add an option just to sign messages separately from the encryption itself. This would over-complicate things at the minute.
-
+* This works best when you are exchanging messages with somebody that you area already tracking in keybase.io, and them tracking you. For example, sometimes it doesn't decrypt a message from a user you have not interacted before properly for the first time, as it needs to verify them. At present this isn't a big problem, as this is really meant to be a quick script for people you regularly communicate with. However, in future I'd like to improve on this.
 
 All contributions welcome!
