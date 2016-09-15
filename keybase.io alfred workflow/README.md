@@ -4,6 +4,8 @@ Version 0.3
 
 A simple encryption and decryption workflow for Keybase.io.
 
+**Note that I am not actively maintaining this project, so please feel free to fork and run with it.**
+
 ###Why Keybase.io?###
 
 Keybase.io is a centralised verified profile that makes encryption and decryption using PGP easier and more accessible.
